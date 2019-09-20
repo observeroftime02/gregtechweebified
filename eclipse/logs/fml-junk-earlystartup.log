@@ -305,3 +305,174 @@
 [02:33:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [02:33:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
 [02:33:40] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:46:33] [main/INFO] [GradleStart]: Extra: []
+[12:46:33] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[12:46:33] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[12:46:33] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[12:46:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:46:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:46:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:46:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:46:33] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:05:27] [main/INFO] [GradleStart]: Extra: []
+[13:05:27] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:05:27] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:05:27] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:05:27] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:05:27] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:05:27] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:05:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:05:27] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:09:00] [main/INFO] [GradleStart]: Extra: []
+[13:09:00] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:09:00] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:09:00] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:09:00] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:09:00] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:09:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:09:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:09:00] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:13:34] [main/INFO] [GradleStart]: Extra: []
+[13:13:34] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:13:34] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:13:34] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:13:34] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:13:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:13:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:13:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:13:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:32] [main/INFO] [GradleStart]: Extra: []
+[13:21:32] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:21:32] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:21:32] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:21:32] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:21:32] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:21:32] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:25:05] [main/INFO] [GradleStart]: Extra: []
+[13:25:05] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:25:05] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:25:05] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:25:05] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:25:05] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:25:05] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:25:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:25:05] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:11] [main/INFO] [GradleStart]: Extra: []
+[13:36:11] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:36:11] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:36:11] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:36:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:36:11] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:36:11] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:51:03] [main/INFO] [GradleStart]: Extra: []
+[13:51:03] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:51:03] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:51:03] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:51:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:51:03] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:51:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:51:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:51:03] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:53:22] [main/INFO] [GradleStart]: Extra: []
+[13:53:22] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:53:22] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:53:22] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:53:22] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:53:22] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:53:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:53:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:53:22] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:56:56] [main/INFO] [GradleStart]: Extra: []
+[13:56:56] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[13:56:56] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:56:56] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[13:56:56] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:56:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:56:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:56:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:56:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:12:22] [main/INFO] [GradleStart]: Extra: []
+[14:12:22] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:12:22] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:12:22] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:12:22] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:12:22] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:12:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:12:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:12:22] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:16:11] [main/INFO] [GradleStart]: Extra: []
+[14:16:11] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:16:11] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:16:11] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:16:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:16:12] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:16:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:16:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:16:12] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:18:28] [main/INFO] [GradleStart]: Extra: []
+[14:18:28] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:18:28] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:18:28] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:18:28] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:18:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:18:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:18:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:18:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:23:56] [main/INFO] [GradleStart]: Extra: []
+[14:23:56] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:23:56] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:23:56] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:23:56] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:23:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:23:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:23:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:23:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:29:14] [main/INFO] [GradleStart]: Extra: []
+[14:29:14] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:29:14] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:29:14] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:29:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:29:14] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:29:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:29:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:29:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:32:20] [main/INFO] [GradleStart]: Extra: []
+[14:32:20] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:32:20] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:32:20] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:32:20] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:32:20] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:32:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:32:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:32:20] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:34:18] [main/INFO] [GradleStart]: Extra: []
+[14:34:18] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:34:18] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:34:18] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:34:18] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:34:19] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:34:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:34:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:34:19] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:36:26] [main/INFO] [GradleStart]: Extra: []
+[14:36:26] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:36:26] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:36:26] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:36:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:36:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:36:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:36:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:36:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:38:19] [main/INFO] [GradleStart]: Extra: []
+[14:38:19] [main/INFO] [GradleStart]: Found and added coremod: ic2.core.coremod.IC2core
+[14:38:19] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:38:19] [main/INFO] [GradleStart]: Found and added coremod: com.github.bartimaeusnek.ASM.BWCorePlugin
+[14:38:19] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/timos/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:38:19] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:38:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:38:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:38:19] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

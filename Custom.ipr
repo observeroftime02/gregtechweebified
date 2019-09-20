@@ -165,10 +165,20 @@
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
     <library name="bartworks1.7.10-0.5.2_pre11">
       <CLASSES>
         <root url="jar://$PROJECT_DIR$/libs/bartworks1.7.10-0.5.2_pre11.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="forestry_1.7.10-4.2.20.0">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/libs/forestry_1.7.10-4.2.20.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />

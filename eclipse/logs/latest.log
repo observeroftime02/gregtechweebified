@@ -1,0 +1,33 @@
+[14:38:23] [main/INFO]: Setting user: Player599
+[14:38:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:38:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:gregtechweebified, FMLFileResourcePack:gregtechweebifiedPreloader, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:GregTech, FMLFileResourcePack:BartWorks, FMLFileResourcePack:BartWorks Mod Additions, FMLFileResourcePack:Forestry for Minecraft
+[14:38:45] [Sound Library Loader/INFO]: Sound engine started
+[14:38:46] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:38:46] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:39:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:gregtechweebified, FMLFileResourcePack:gregtechweebifiedPreloader, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:GregTech, FMLFileResourcePack:BartWorks, FMLFileResourcePack:BartWorks Mod Additions, FMLFileResourcePack:Forestry for Minecraft
+[14:39:13] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[14:39:15] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[14:39:16] [Sound Library Loader/INFO]: Sound engine started
+[14:39:24] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:39:24] [Server thread/INFO]: Generating keypair
+[14:39:24] [Server thread/INFO]: Preparing start region for level 0
+[14:39:27] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:39:27] [Server thread/INFO]: Player599[local:E:13592b55] logged in with entity id 369 at (273.1704142724031, 75.48937758587034, 230.5859229797332)
+[14:39:27] [Server thread/INFO]: Player599 joined the game
+[14:39:34] [Server thread/INFO]: Player599 has just earned the achievement [Taking Inventory]
+[14:39:34] [Client thread/INFO]: [CHAT] Player599 has just earned the achievement [Taking Inventory]
+[14:39:35] [Client thread/INFO]: [CHAT] You are now playing creative+
+[14:39:44] [Client thread/INFO]: Stopping!
+[14:39:44] [Server thread/INFO]: Stopping server
+[14:39:44] [Server thread/INFO]: Saving players
+[14:39:44] [Server thread/INFO]: Saving worlds
+[14:39:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/Moon
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/Mars
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/Ross128ba
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/Asteroids
+[14:39:45] [Server thread/INFO]: Saving chunks for level 'New World'/Ross128b
+[14:39:45] [Client Shutdown Thread/INFO]: Stopping server
+[14:39:45] [Client Shutdown Thread/INFO]: Saving players
