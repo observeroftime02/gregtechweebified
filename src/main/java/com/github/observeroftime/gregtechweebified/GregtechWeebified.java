@@ -1,12 +1,12 @@
 package com.github.observeroftime.gregtechweebified;
 
+        import com.github.observeroftime.gregtechweebified.adders.*;
         import cpw.mods.fml.common.event.FMLPostInitializationEvent;
         import cpw.mods.fml.common.event.FMLPreInitializationEvent;
         import cpw.mods.fml.common.Mod;
         import cpw.mods.fml.common.Mod.EventHandler;
         import cpw.mods.fml.common.event.FMLInitializationEvent;
         import gregtech.api.GregTech_API;
-        import scala.tools.cmd.Meta;
 
 @Mod(modid = GregtechWeebified.MODID, version = GregtechWeebified.VERSION,
         dependencies = "required-after:IC2; "
@@ -18,21 +18,26 @@ public class GregtechWeebified
 
     @EventHandler
     public void preinit(FMLPreInitializationEvent event) {
-        new Material_Zeugs();
+        new MaterialAdder();
         GregTech_API.sAfterGTPostload.add(new RecipeAdder());
         GregTech_API.sAfterGTPostload.add(new FluidAdder());
         GregTech_API.sAfterGTPostload.add(new CropAdder());
-        new ItemRegistry().run();
+        new ItemAdder().run();
         new Beeadder();
             }
 
     @EventHandler
     public void init(FMLInitializationEvent event) {
         new TestLog().run();
-        new MetaItemAdder().run();
+        new ItemPipeAdder().run();
+        new FluidPipeAdder().run();
+        new WireAdder().run();
+
+
     }
     @EventHandler
     public void postinit(FMLPostInitializationEvent event) {
+
 
     }
 

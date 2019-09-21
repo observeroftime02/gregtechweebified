@@ -1,5 +1,6 @@
 package com.github.observeroftime.gregtechweebified;
 
+import com.github.observeroftime.gregtechweebified.adders.MaterialAdder;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
@@ -8,7 +9,7 @@ public class PreLoader {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        new Material_Zeugs();
+        new MaterialAdder();
     }
 
 }
